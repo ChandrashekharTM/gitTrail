@@ -1,3 +1,6 @@
-blobs
+blob1 -> blob2
+      -> blob3->blob4
+                  ->blob5
 
-master testing 
+master ->blob1
+testing -> blob5 
